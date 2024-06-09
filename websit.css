@@ -1,0 +1,325 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+
+
+
+
+.aaa{
+    width: 1200px;
+    height: 550px;
+    background-image: url(./images/tree-736885_1280.jpg);
+    
+    
+    
+
+
+    
+}
+
+.bbb{
+    width: ; ;
+    height: 30px;
+    margin: 30px;
+
+}
+
+.ccc{
+    display: flex;
+    list-style-type: none;
+    gap: 40px;
+    position: relative;
+    bottom: 52px;
+    left: 350px;
+color: white;
+
+}
+
+.ddd{
+    /* padding: 5px; */
+    margin-left:  100px;
+    
+    
+
+}
+
+.eee{
+    border: 1px solid gainsboro;
+    border-radius: 50px;
+    padding: 5px;
+
+}
+.eee::selection{
+    background-color: black;
+    color: yellow;
+}
+
+.ggg{
+    color: white;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: rgb(40, 39, 39);
+    padding: 10px;
+     position: relative;left: 40px;
+    
+}
+.hhh{
+    color: white;
+    margin: 40px;
+}
+
+.iii{
+    color: white;
+    margin: 40px;
+
+}
+
+.kkk{
+    position: relative;top: 1px;
+}
+
+.jjj{
+    color: white;
+    background-image: linear-gradient(to left,red,orange);
+    border-radius: 50px;
+    padding: 15px;
+    margin: 30px;
+    border: 1px solid black;
+}
+.jjj:hover{
+    background-image: linear-gradient(to left,blue,gray); 
+    
+}
+
+.lll{
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 15px;
+    background: transparent;
+    overflow: hidden;
+    
+
+}
+
+.jhj{
+    display: flex;
+}
+
+
+.wew{
+    display: flex;
+
+
+}
+
+.kik h3{
+    margin: 20px;
+
+}
+.kik pre{
+    margin: 20px;
+}
+
+.jaj h3{
+    margin: 20px;
+    
+}
+
+.jaj p{
+    margin: 10px;
+}
+
+
+.zxc h3{
+    margin: 20px;
+}
+.zxc pre{
+    margin: 20px;
+}
+
+.mnm{
+    display: flex;
+    margin-left: 100px;
+}
+
+.bvc{
+    margin-top: 10px;
+    display: flex;
+    margin-left: 200px;
+    
+}
+.mzm{
+    position: relative;
+    width: 350px;
+    height: 350px;
+    left: 30px;
+    top: 30px;
+    border-radius: 20px;
+    z-index: 1;
+    
+}
+
+.nzn{
+    position: relative;
+    width: 350px;
+    height: 350px;
+    right: 100px;
+    top: 70px;
+    border-radius: 20px;
+    z-index: 2;
+}
+
+.msm{
+    position: relative;
+    left: 680px;
+    bottom: 300px;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    background: transparent;
+}
+
+.ljl{
+    width: 1200px;
+    background-color: aliceblue;
+}
+
+.gtg{
+    position: relative;
+    left: 677px;
+    bottom: 290px;
+    margin: 10px;
+}
+
+.gtg pre{
+    padding: 40px;
+}
+.swe{
+    word-spacing: 190px;
+    border-radius: 20px;
+    padding: 10px;
+background-image: linear-gradient(to right,red,white);
+position: relative;
+left: 690px;
+bottom: 250px;
+border: 1px solid red;
+}
+.tre{
+    word-spacing: 140px;
+    border-radius: 20px;
+    padding: 10px;
+background-image: linear-gradient(to right ,blue,white);
+position: relative;
+left: 320px;
+bottom: 190px;
+border: 1px solid blue;}
+
+.ewq{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    top: 440px;
+    left: 70px;
+    border-bottom:2px solid black ;
+    border-right: 2px solid black;
+    padding: 20px;
+}
+
+.ewq:hover{
+    background-color: blue;
+}
+
+.ouy{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    top: 340px;
+    left: 210px;
+    border-bottom:2px solid black ;
+    border-right: 2px solid black;
+    padding: 20px;
+}
+
+.ouy:hover{
+    background-color: blue;
+}
+
+.vty{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    top: 240px;
+    left: 350px;
+    border-bottom:2px solid black ;
+    
+padding: 20px;
+}
+
+
+.vty:hover{
+    background-color: blue;
+}
+
+.iuy{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    top: 240px;
+    left: 348px;
+    
+    border-left: 2px solid black;
+padding: 20px;
+}
+
+
+.iuy:hover{
+    background-color: blue;
+}
+
+.mre{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    top: 140px;
+    left: 208px;
+    
+    border-left: 2px solid black;
+padding: 20px;
+}
+
+
+.mre:hover{
+    background-color: blue;
+
+}
+
+.kaq{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    top: 1px;
+    left: 70px;
+    
+    
+padding: 20px;
+}
+
+
+.kaq:hover{
+    background-color: blue;
+}
+
+.kui{
+    position: relative;
+    top: 700px;
+    left: 200px;
+    
+}
+
+.kaz{
+    position: relative;
+    bottom: 140px;
+}
