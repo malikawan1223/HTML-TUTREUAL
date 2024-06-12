@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+
+.aaa{
+    width: ;
+    height: 50px;
+    background-color: yellow;
+}
+
+.bbb{
+padding: 20px;
+    text-align: center;
+}
+
+.ccc{
+    width: ;
+    height: 200px;
+    background-color: aqua;
+}
+
+.eee{
+    text-align: center;
+padding: 20px;
+color: white;
+}
+
+.ddd{
+    text-align: center;
+    color: white;
+}
+
+.fff{
+    width: ;
+    height: 40px;
+    background-color: black;
+    
+   
+}
+
+.ggg{
+    padding: 10px;
+    word-spacing: 20px;
+    color: white;
+}
+
+.hhh{
+    background-color:aliceblue;
+    width: fit-content;
+    height: fit-content;
+}
+
+.iii{
+    width:450px ;
+    height:100px ;
+    background-color: darkgray;
+}
+
+.mmm{
+    width: ;
+    height: 50px;
+    background-color: darkgray;
+}
+
+.ppp{
+    padding: 10px;
+}
+.qqq{
+    padding: 10px;
+}
+
+.iii{
+    margin: 10px;
+}
+
+.ooo{
+    padding: 5px;
+}
+
+.jjj{
+    padding: 10px;
+}
+
+.kkk{
+    padding: 10px;
+}
+
+.lll{
+    padding: 10px;
+}
+.mmm{
+    margin: 10px;
+
+}
+
+.zzz{
+    display: grid;
+    grid-template-columns:500px 700px ;
+}
+
+
+.xxx{
+    margin-top: 10px;
+}
+
+.vvv{
+    margin-top: 10px;
+}
+
+
+.www{
+    
+margin-top: 10px;
+width: ;
+height:100px ;
+background-color: darkgray;
+}
+
+.sss{
+    margin-top: 10px;
+}
+
+.wew{
+    margin-top: 10px;
+}
+
+.xyx{
+    margin-top: 10px;
+}
+
+.vvv{
+    margin-top: 10px;
+}
+
+.srs{
+    margin-top: 10px;
+}
+
+.waw{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+

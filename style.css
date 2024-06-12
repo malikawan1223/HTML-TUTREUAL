@@ -1,0 +1,12 @@
+.malik{text-shadow: 2px 2px 5px yellow;}
+h3{text-shadow: 12px 13px 19px blue;}
+.abc{text-align: center;text-shadow: 2px 2px 1px red;font-size: larger;text-decoration: dotted underline;}
+
+.asd{text-decoration: overline ;font-size: 20px;}
+.aa{text-decoration: line-through underline;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.abd{text-decoration: double underline;}
+header{display: flex;margin: 2px;}
+.MAIN{text-align: right;margin-left: 20px;display: flex;}
+.ww{margin-left: 20px;}{ box-shadow: 5px 1px 10px;}
+.qwer{box-shadow: .5px 1px 10px yellowgreen ; border :3px solid black;}
